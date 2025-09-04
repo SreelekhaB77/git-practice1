@@ -1,3 +1,7 @@
 Practicing git branching, merging, and resolving conflicts
 This is a new feature with changes from main
+<<<<<<< HEAD
 This is a new change from main
+=======
+This is a new change from feature branch
+>>>>>>> 27f4830 (change from feature branch)
