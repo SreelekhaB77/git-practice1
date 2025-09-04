@@ -6,5 +6,9 @@ This is a new change from main to test merge
 
 This is a new change from feature branch to test merge again
 
+<<<<<<< HEAD
 This is a new conflict to tset rebasing feature onto main by main branch
+=======
+This is new conflict to test rebasing feature onto main by feature branch
+>>>>>>> 06ac946 (rebase test by feature)
 
